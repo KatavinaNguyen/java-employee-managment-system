@@ -1,4 +1,4 @@
-# WorkHive Employee Management System <img src="src/main/java/icon/honeycomb_656353.png" width="70">
+# Java MySQL Employee Management System 
 A simple yet powerful console application that helps you manage employees, process payroll, and generate reports—all in one place.
 
 ## Features 
